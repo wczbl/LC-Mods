@@ -1,2 +1,2 @@
-# LC-Mods
-Source code to most of my Lethal Company mods
+# About this repo
+As the title suggests, this is a repository that contains most of my open source projects. I've decided that this is the best route to take since I've had issues with google drive. To be specific, google drive likes to partially upload the files to my projects, and it's gotten to the point where it is annoying, as the only way to prevent google drive from removing things/files without my input, is to upload them as a ZIP. I'd rather not. Anyways, you can expect some guides(which you'll be able to navigate through via the branches), while the mod source code stays in the main branch. I created this repository because it's going to take part in my CV at some point(alongside the java prototypes). Either way, if you have any questions, you can find me on discord as "wchilla" or Adrian(on the Lethal Company modding server). 
