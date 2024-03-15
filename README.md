@@ -1,4 +1,4 @@
-# About this repo
+# Introduction
 So, you want to add your very own boombox songs but don't want to use other mods to do it? If that's the case, ask and you shall receive. I assume you have watched [this video](https://www.youtube.com/watch?v=4Q7Zp5K2ywI) and have gotten somewhat an understanding of how C# works.
 
 # Requirements
