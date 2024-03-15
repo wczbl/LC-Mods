@@ -32,7 +32,7 @@ All it does is:
 
 And this is what the BoomboxItemPatch looks like:
 ![image](https://github.com/wczbl/LC-Mods/assets/130032524/5931681c-3882-4664-96c8-a41c87c242b8)
-All this does is:
+<p>All this does is:</p>
 - Creates a list with the length of the original music audios array.
 - Adds all the boombox songs to the list.
 - Updates the music audios array to contain all the boombox songs.
