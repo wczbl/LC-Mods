@@ -26,7 +26,7 @@ I prefer to have a separate class for the plugin information because it keeps th
 <p>And for our plugin class, this is the code we need:</p>
 
 ![image](https://github.com/wczbl/LC-Mods/assets/130032524/dda832e5-4828-440b-b888-c3e7d5168600)
-All it does is:
+<p>All it does is:</p>
 - Creates a log source - even though the Base plugin has a logger, it is crucial to understand that the logger in question is a private field, meaning that, it's not accessible to other classes. Although this one is private, too, you'd normally want the log source to be either `public static` or just `public`. In my case, I was too lazy to change this to public. In fact, the only purpose this logger has is to tell us how many songs the boombox has.
 - Tries to find the Asset Bundle that needs to be in the same folder as the DLL. If it doesn't find, it doesn't go through with loading all audio clips.
 
