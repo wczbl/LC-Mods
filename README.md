@@ -21,7 +21,8 @@ These are all the DLLs we need to reference.
 <p><image src="https://github.com/wczbl/LC-Mods/assets/130032524/2440e460-8af3-4226-9b4d-7181d7697f3f"></image></p>
 
 # Code 
-I prefer to have a separate class for the plugin information because it keeps things clean and much more accessible, in my opinion.
+<p>I prefer to have a separate class for the plugin information because it keeps things clean and much more accessible, in my opinion.</p>
+
 ![image](https://github.com/wczbl/LC-Mods/assets/130032524/ba793b87-eaa0-48eb-8901-f4e971eba026)
 <p>And for our plugin class, this is the code we need:</p>
 
